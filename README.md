@@ -1,4 +1,4 @@
-# oc-2 Midnight for Zed
+# oc-2 Midnight Theme for Zed
 
 Unofficial dark port of the <a href="https://github.com/anomalyco/opencode">OpenCode</a> oc-2 theme for Zed, based on <a href="https://github.com/builtbyleo/oc-2.nvim">oc-2.nvim</a>.
 
